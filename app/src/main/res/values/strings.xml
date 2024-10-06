@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">dropDown</string>
+    <string-array name="repeat">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Mon to Fri</item>
+    </string-array>
+
+</resources>
